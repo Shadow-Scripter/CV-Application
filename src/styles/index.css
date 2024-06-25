@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.general-info, .educational-experience, .practical-experience {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+body {
+  background-color: hsl(0, 0%, 95%);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  margin: 0;
+}
